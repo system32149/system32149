@@ -2,7 +2,7 @@
 
 hi im system32
 
-website link [here.](https://system32149.github.io] (unfinished)
+website link [here.](https://system32149.github.io) (unfinished)
 
 <h2>languages that i know:</h2>
 <ul>
