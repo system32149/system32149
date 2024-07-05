@@ -5,9 +5,10 @@ hi im system32
 website link [here.](https://system32149.github.io] (unfinished)
 
 <h2>languages that i know:</h2>
-- html
-- css
-- some javascript
-- basic (i use visual basic for MS-DOS)
+<ul>
+ <li>html & css</li>
+ <li>some javascript</li>
+ <li>basic (i use visual basic for MS-DOS)</li>
+</ul> 
 
 and thats really it
