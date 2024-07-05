@@ -1,7 +1,13 @@
-[![](https://visitcount.itsvg.in/api?id=System32&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+<h1 align="center">System32</h1>
 
 hi im system32
 
-im also a webdev and makes random programs in basic
+website link [here.](https://system32149.github.io] (unfinished)
 
-website: https://system32149.github.io (unfinished)
+<h2>languages that i know:</h2>
+- html
+- css
+- some javascript
+- basic (i use visual basic for MS-DOS)
+
+and thats really it
