@@ -1,4 +1,7 @@
 ## Hi there 👋
+I develop command-line programs.
+
+I'm currently learning the [C](https://www.wikipedia.org/wiki/C_programming_language) programming language.
 
 <!--
 **system32149/system32149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
